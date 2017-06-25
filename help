@@ -1,0 +1,25 @@
+Regenerate blog: hugo --theme=danluu-hugo-theme
+Preview server: hugo server --theme=danluu-hugo-theme --buildDrafts
+Commit: 1. go into /public  2. Add, commit, and push.
+Add new post: hugo new post/<name>.md
+
+Blog Post Ideas:
+1. The strategy
+2. Adopting the strategy for IRA accounts
+3. The importance of American vs. European options
+4. Trading frequency
+5. Risk management concepts
+6. Optimizations
+  a) trending market vs. non-trending
+  b) high VIX vs. low VIX
+  c) impending major events
+  d) reset methodology
+7. Adjustment scenarios
+  a) both sides OTM
+  b) one side OTM
+  c) double inverted
+  d) super inversion
+8. Trading mindset
+  a) Trading is war
+  b) Consistency & confidence is a form of alpha
+  
