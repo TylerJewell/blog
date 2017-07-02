@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Tyler&#39;s Blog</title>
+    <link>http://tylerjewell.github.io/about.html</link>
+    <description>Recent content in Abouts on Tyler&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2017 05:36:35 -0700</lastBuildDate>
+    
+	<atom:link href="http://tylerjewell.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Tyler Jewell</title>
+      <link>http://tylerjewell.github.io/about/me.html</link>
+      <pubDate>Mon, 12 Jun 2017 05:36:35 -0700</pubDate>
+      
+      <guid>http://tylerjewell.github.io/about/me.html</guid>
+      <description>I have worked in technology since 1991 where I had a part time QA &amp;amp; shipping operations job for Banner Blue Software in Fremont, California. My QA was click-and-pray, but that experience exposed an industry filled with fascinating technology. I later earned a Computer Science degree at Rose-Hulman Institute of Technology.
+I specialize in technology to make the lives of developers better. I started my career as a below average software engineer and later found success in product management, investments, sales, and ecosystems.</description>
+    </item>
+    
+  </channel>
+</rss>

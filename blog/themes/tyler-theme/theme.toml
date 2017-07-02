@@ -1,8 +1,0 @@
-name = "danluu"
-description = "Very simple blog theme"
-license = "Apache"
-
-[author]
-    name = "danluu"
-    homepage = "http://danluu.com"
-

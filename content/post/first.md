@@ -7,14 +7,26 @@ title = "The Tyler Trading Method"
 
 **Revisions**  
 2/1/12 – First Draft   
-2/19/13 – Updates: Hedging precautions, rolling strategies.  
-3/24/13 – Updates: Added some examples.  
-6/23/17 - Refresh.
+2/19/13 – Updates: Hedging precautions, rolling strategies  
+3/24/13 – Updates: Added examples  
+6/23/17 - Refresh
 
 **Overview**  
-In 2011 I became sick and recovered 9 months later. I became obsessed with finding ways to yield 10% in the market regardless of market direction. A consistent 10% return on invested capital in public markets with liquidity gave me confidence in long term financial security.
+In 2011 I became ill and recovered 9 months later. At times I was uncertain whether I would heal. I fought a two front war: neutralizing attacks to my nervous system and battling anxiety that a long term disability could eliminate work opportunities. 
 
-The obsession evolved into a hobby. I've shared this strategy on various popular trading forums to collect feedback and to help others seeking similar outcomes. This strategy was discussed for a period of many quarters on the Karen Super Trader Yahoo group and later dubbed by active participants on that group the "Tyler Trading Method (TTM)".
+I began to obsess with finding ways to yield 10% regardless of a markets direction. A consistent return would provide long term financial security.
+
+The obsession took root. As normal life returned, long nights of research did not wane. The problem's complexity was a fixation. It became a life hobby.
+
+By year's end, a solution began unwrapping itself. Could time and volatility provide consistent, risk-managed returns? Theory suggested amazing possibilities. 
+
+I tested the hypothesis with my life's savings. The adrenaline and fear from risking ruin was essential to formulating creative recoveries to unforeseen circumstances. 
+
+After 297 weeks, results are 21% CAGR. The annualized returns were lumpy: 13%, 24%, 4%, -8%, 58%, 24%, and 6% YTD. Growth hacking, a discipline for precocious entrepreneurs, had infiltrated weekly research. Ideas brimmed and the target has increased to 25%.
+
+I've shared this strategy on speciality discussion forums to uncover vulnerabilities and aid others seeking similar outcomes. The most extensive discussions were on the Karen Super Trader Yahoo group and participants dubbed it the "Tyler Trading Method (TTM)". TTM is an acronym, not a trademark, but might become one. 
+
+Sharing does not jeopardize my alpha. Helping others improves personal discipline and is a moral obligation from accepting the insights of others. Scheisters promise incredible returns with techniques unfurled only after your paid subscription has cleared. Open source software are the building blocks to 
 
 **Results**  
 This investment approach has been pursued since 11/1/11 and has generated a 49% cumulative return in approximately 15 months of operation while spy would have returned around 20% over the same period.  This is averaging about .6% compounded weekly, though in the later quarters of this strategy have reduced the risk to target only a .4% weekly return. The largest drawdown has been -3% compared to SPY’s -8%.

@@ -1,0 +1,8 @@
+name = "tyler"
+description = "Very simple blog theme"
+license = "Apache"
+
+[author]
+    name = "tylerjewell"
+    homepage = "http://tylerjewell.github.io"
+
