@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tylerjewell.github.io/post/ttm-variations.html</loc>
+    <lastmod>2017-07-09T05:36:35-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tylerjewell.github.io/about/me.html</loc>
     <lastmod>2017-06-12T05:36:35-07:00</lastmod>
   </url>
@@ -25,7 +30,7 @@
   
   <url>
     <loc>http://tylerjewell.github.io/post.html</loc>
-    <lastmod>2017-06-12T05:36:35-07:00</lastmod>
+    <lastmod>2017-07-09T05:36:35-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,7 +41,7 @@
   
   <url>
     <loc>http://tylerjewell.github.io/</loc>
-    <lastmod>2017-06-12T05:36:35-07:00</lastmod>
+    <lastmod>2017-07-09T05:36:35-07:00</lastmod>
     <priority>0</priority>
   </url>
   
