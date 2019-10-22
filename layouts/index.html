@@ -27,7 +27,7 @@
 <meta name="description" content="{{ .Description }}">
 <link href="{{ .Site.BaseURL }}/atom.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 <meta name="google-site-verification" content="" />
-{{ template "theme/partials/header.html" . }}
+{{ partial "header.html" . }}
 <body>
 <div id="article">
 <div class="posts">
@@ -36,6 +36,6 @@
 {{ end }}
 </div>
 <br>
-{{ template "theme/partials/footer.html" . }}
+{{ partial "footer.html" . }}
 </body>
 </html>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tyler&#39;s Blog</title>
-    <link>http://tylerjewell.github.io/post.html</link>
+    <link>http://tylerjewell.github.io/post/</link>
     <description>Recent content in Posts on Tyler&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -13,21 +13,20 @@
     
     <item>
       <title>TTM Variations</title>
-      <link>http://tylerjewell.github.io/post/ttm-variations.html</link>
+      <link>http://tylerjewell.github.io/post/ttm-variations/</link>
       <pubDate>Sun, 09 Jul 2017 05:36:35 -0700</pubDate>
       
-      <guid>http://tylerjewell.github.io/post/ttm-variations.html</guid>
+      <guid>http://tylerjewell.github.io/post/ttm-variations/</guid>
       <description>Over the years of trading TTM, I have made adjustments to increase returns or mitigate perceived risks. The flavors include:
- IRA Adjustments Risk Adjustments At-the-Money Exploitation Underlying Diversification Small Account Adjustments  IRA Adjustments I first started trading TTM at eTrade in a TREG margin account. I left my 401K and IRA accounts untouched invested in index funds.
-After I became comfortable with the principles of TTM, I wanted to get the same benefits for trading in an IRA account.</description>
+ Risk Adjustments IRA Adjustments At-the-Money Exploitation Underlying Diversification Small Account Adjustments  Risk Adjustments It&amp;rsquo;s possible to change the strategy to reduce or increase risk. My historical rate of return has been close to 21% CAGR, which is .35% CWGR. This includes times where I hvae made great aggressive rolls during a week and also times where I have made severe mistakes.</description>
     </item>
     
     <item>
       <title>The Tyler Trading Method</title>
-      <link>http://tylerjewell.github.io/post/tyler-trading-method.html</link>
+      <link>http://tylerjewell.github.io/post/tyler-trading-method/</link>
       <pubDate>Mon, 12 Jun 2017 05:36:35 -0700</pubDate>
       
-      <guid>http://tylerjewell.github.io/post/tyler-trading-method.html</guid>
+      <guid>http://tylerjewell.github.io/post/tyler-trading-method/</guid>
       <description>Revisions 2/1/12 – First Draft
 2/19/13 – Updates: Hedging precautions, rolling strategies
 3/24/13 – Updates: Added examples
