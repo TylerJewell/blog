@@ -5,7 +5,7 @@ title = "About Tyler Jewell"
 +++
 I have worked in technology since 1991 where I had a part time QA and operations job for Banner Blue Software in Fremont, California. My QA was click-and-pray, but that exposed a fascinating industry. I later earned a Computer Science degree at [Rose-Hulman Institute of Technology](http://rose-hulman.edu).
 
-I specialize in technology to make developers' lives better. My career began as an unimpressive software engineer and later found success in evangelism, product management, entrepreneurism, and investing.
+I specialize in technology to make developers' lives better! My career began as an unimpressive software engineer and later found success in evangelism, product management, entrepreneurism, and investing.
 
 I've favored technology connecting middleware and developers. In the 90s and early millenium, I published three books on Java and Java EE with others. I later worked to apply VMs and containers to languages, middleware, and lifecycle tools.
 
