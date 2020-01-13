@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = http://github.com/tylerjewell/tylerjewell.github.io.git
+	branch = master
